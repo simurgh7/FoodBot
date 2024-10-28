@@ -6,4 +6,4 @@ In this midterm, we propose a chatbot built using Llama2, combined with our imag
   in the video, we show a demo on how to use our product
 
 
-![Step](midterm_demo.mov)
+![Step](midterm_demo.gif)
