@@ -1,0 +1,14 @@
+model,test-acc
+coatnet,97.24
+convformer,97.64
+crossvit,95.69
+deit,98.11
+levit,96.53
+maxvit,97.71
+mobilevit,97.51
+nest,97.84
+pit,97.64
+pvt,96.83
+swin,98.52
+twins,97.91
+vit,97.51
