@@ -7,14 +7,14 @@ Chatbot evaluation:
 
 cd chatbot_evaluation
 
-# using bleurt score to compare the generated answer vs true label answer
+use bleurt score to compare the generated answer vs true label answer
 
 python bleurt_eval.py
 
-# using blue score to compare the generated answer vs true label answer
+use blue score to compare the generated answer vs true label answer
 
 python blue_eval.py 
 
-# using rouge score to compare the generated answer vs true label answer
+use rouge score to compare the generated answer vs true label answer
 
 python rouge_eval.py 
