@@ -1,0 +1,91 @@
+Question,Answer,Food_Name,question_category
+"What is Pho, and what are its main ingredients?","Pho is a Vietnamese noodle soup made with a flavorful broth, rice noodles, and thinly sliced beef or chicken. It is garnished with fresh herbs and served with lime, chili, and bean sprouts on the side.",pho,Ingredients
+Does Pho have a strong or mild flavor?,"Pho has a mild yet aromatic flavor, with hints of spices like star anise, cinnamon, and clove in the broth. It's savory and comforting without being overpowering.",pho,Flavor Profile
+Is Pho spicy? Can I make it spicier?,"Pho is not spicy by default, but you can add chili slices, chili sauce, or sriracha to adjust the spice level to your liking.",pho,Spiciness
+Does Pho contain any allergens I should know about?,"Pho may contain gluten (depending on the noodles used), beef, or chicken. It may also include fish sauce in the broth, so ask if you have a fish or shellfish allergy.",pho,Allergens
+Does the restaurant offer vegetarian or vegan Pho?,"Many restaurants offer vegetarian or vegan versions of Pho, using vegetable broth and tofu instead of beef or chicken.",pho,Dietary Options
+How is Pho typically eaten?,"Pho is traditionally eaten with chopsticks for the noodles and a spoon for the broth. You can customize it by adding bean sprouts, fresh herbs, lime juice, and sauces.",pho,General
+What side items or toppings come with Pho?,"Pho is often served with fresh bean sprouts, basil, lime wedges, chili slices, and hoisin sauce. These toppings allow you to adjust the flavor and texture.",pho,General
+Is Pho filling enough for a full meal?,"Yes, Pho is a hearty meal. It includes noodles, protein, and fresh vegetables, making it satisfying on its own.",pho,General
+What makes Pho unique compared to other noodle soups?,"Pho stands out for its broth, which is slow-cooked with spices for a rich, aromatic flavor. The fresh herbs and customizability also make it unique.",pho,General
+What is the best way to customize Pho to my taste?,"You can adjust the flavor by adding lime juice, chili slices, sriracha, or hoisin sauce. For more texture, mix in fresh bean sprouts or herbs.",pho,General
+"What is Banh Chung, and what are its main ingredients?","Banh Chung is a traditional Vietnamese sticky rice cake filled with mung beans and pork, wrapped in banana leaves.",banh chung,Ingredients
+Is Banh Chung savory or sweet? What does it taste like?,"Banh Chung is savory with a mild, earthy flavor from mung beans and pork, complemented by the aroma of banana leaves.",banh chung,General
+Is Banh Chung served hot or cold?,It is typically served warm but can also be eaten at room temperature.,banh chung,General
+Does Banh Chung contain any common allergens?,"It contains glutinous rice, pork, and soy sauce, which may be allergens for some.",banh chung,Allergens
+"Is Banh Chung vegetarian, or can it be made that way?","Traditional Banh Chung is not vegetarian, but vegetarian versions can be made by omitting pork and using mushroom or mung bean fillings.",banh chung,Dietary Options
+How is Banh Chung traditionally eaten?,It is cut into slices and often eaten with pickled vegetables or soy sauce.,banh chung,General
+Is Banh Chung filling enough for a full meal?,"Yes, it is dense and filling due to the sticky rice and pork filling, making it a hearty meal.",banh chung,General
+Are there any traditional accompaniments with Banh Chung?,"Common accompaniments include pickled vegetables, soy sauce, or chili sauce.",banh chung,General
+How long does Banh Chung take to prepare ?,"Banh Chung takes several hours to prepare, including soaking rice and mung beans and boiling for 8-10 hours.",banh chung,General
+What is Banh Cuon?,"Banh Cuon is a traditional Vietnamese dish made of thin steamed rice flour sheets filled with minced pork, wood ear mushrooms, and shallots.",banh cuon,General
+What does Banh Cuon taste like?,"Banh Cuon has a delicate, slightly chewy texture with a savory and mildly sweet flavor from the filling and dipping sauce.",banh cuon,General
+How is Banh Cuon prepared?,"It is made by steaming a thin batter of rice flour and water into sheets, then filling and rolling them with a seasoned mixture of pork and mushrooms.",banh cuon,General
+What are the main ingredients in Banh Cuon?,"The main ingredients are rice flour, water, minced pork, wood ear mushrooms, shallots, and fish sauce.",banh cuon,Ingredients
+Is Banh Cuon healthy?,"Yes, it can be considered healthy as it is low in fat and contains protein and carbohydrates, but it depends on portion size and ingredients.",banh cuon,General
+Are there any common allergens in Banh Cuon?,"Yes, it may contain fish (from fish sauce), pork, and mushrooms, which are common allergens for some people.",banh cuon,Allergens
+How do you eat Banh Cuon?,Banh Cuon is typically eaten with a fish sauce-based dipping sauce. You can dip each roll into the sauce for added flavor.,banh cuon,General
+What does Banh Cuon come with?,"It is often served with fresh herbs, slices of Vietnamese pork sausage (cha lua), and crispy fried shallots on top.",banh cuon,General
+What is Banh Pia?,"Banh Pia is a traditional Vietnamese pastry with a flaky crust and a filling made of mung beans, durian, and salted egg yolk.",banh pia,General
+What does Banh Pia taste like?,"Banh Pia has a unique combination of flavors: the sweetness of mung beans, the rich creaminess of durian, and the salty taste of egg yolk.",banh pia,General
+What are the main ingredients of Banh Pia?,"The main ingredients are wheat flour, mung beans, durian, and salted egg yolk.",banh pia,Ingredients
+Is Banh Pia sweet or savory?,"Banh Pia is typically sweet, but the salted egg yolk adds a savory element.",banh pia,General
+Are there any allergens in Banh Pia?,"Yes, Banh Pia contains gluten, eggs, and durian, which can be allergens for some people.",banh pia,Allergens
+How is Banh Pia made?,"Banh Pia is made by layering dough with lard, preparing a filling with mung beans, durian, and salted egg yolk, and then baking it.",banh pia,General
+Is Banh Pia a dessert?,"Yes, Banh Pia is commonly enjoyed as a dessert or snack.",banh pia,General
+What makes Banh Pia unique?,Banh Pia is unique because of its durian flavor and the balance of sweet and savory tastes.,banh pia,General
+How many calories are in a serving of Banh Pia?,A serving of Banh Pia contains approximately 450 calories.,banh pia,General
+Can I eat Banh Pia if I have a nut allergy?,"Banh Pia does not typically contain nuts, but it is best to check with the restaurant for cross-contamination risks.",banh pia,General
+What is Chao Long?,"Chao Long is a Vietnamese porridge made with rice and pork offal, often flavored with herbs and served hot.",chao long,General
+What are the main ingredients in Chao Long?,"The main ingredients are pork offal, rice, fish sauce, herbs like coriander and scallions, and fried shallots.",chao long,Ingredients
+Is Chao Long spicy?,Chao Long is not inherently spicy but can be made spicy with added chili or pepper if desired.,chao long,Spiciness
+What does Chao Long taste like?,"It has a rich, savory taste with a creamy texture from the rice and aromatic flavors from the herbs.",chao long,General
+Is Chao Long suitable for someone with dietary restrictions?,It may not be suitable for people avoiding pork or fish products. Always check with the chef for specific dietary needs.,chao long,Dietary Options
+How is Chao Long typically served?,"Chao Long is typically served hot in a bowl, garnished with fried shallots, fresh herbs, and a side of fish sauce or chili.",chao long,General
+Is Chao Long a heavy or light meal?,"It is a moderately filling meal, making it neither too heavy nor too light.",chao long,General
+Can Chao Long be customized?,"Yes, you can often request specific ingredients or toppings to suit your taste.",chao long,General
+Does Chao Long contain any allergens?,"Yes, it may contain pork and fish, which can be allergens for some people.",chao long,Allergens
+What is the best time to eat Chao Long?,"Chao Long is commonly eaten as a breakfast or lunch dish, but it can be enjoyed at any time of the day.",chao long,General
+What is Naan?,Naan is a type of leavened flatbread commonly served in South Asian and Middle Eastern cuisines.,naan,General
+How is Naan cooked?,"Naan is traditionally cooked in a tandoor, a clay oven, but it can also be cooked on a hot skillet or oven.",naan,General
+What does Naan taste like?,"Naan is soft, fluffy, and slightly chewy with a mild, buttery flavor. It can also have a smoky taste when cooked in a tandoor.",naan,General
+What are the common ways to eat Naan?,"Naan is often served as a side with curries, stews, or grilled meats. It can also be topped with butter, garlic, or cheese.",naan,General
+Does Naan contain any allergens?,"Yes, Naan usually contains gluten and may also contain dairy (yogurt or milk).",naan,Allergens
+What is Pilaf?,"Pilaf is a rice dish cooked with spices, broth, and often includes vegetables or meat.",pilaf,General
+What are the main ingredients in Pilaf?,"The main ingredients are rice, oil, spices (like cumin or cardamom), onions, and optionally vegetables or meat.",pilaf,Ingredients
+Is Pilaf spicy?,It can be mildly spiced but is not usually very spicy. The level of spice can vary depending on the recipe.,pilaf,Spiciness
+Can Pilaf be vegetarian?,"Yes, Pilaf can be made vegetarian by excluding meat and using vegetable broth.",pilaf,Dietary Options
+Does Pilaf contain any common allergens?,"Pilaf may contain nuts or dairy depending on the recipe, so it's important to check for specific allergens.",pilaf,Allergens
+What does Pilaf taste like?,"Pilaf has a savory and aromatic taste, with a balance of spices and the flavors of added vegetables or meat.",pilaf,General
+How is Pilaf prepared?,"Pilaf is prepared by sautéing spices and onions, then cooking rice in broth with added ingredients like vegetables or meat.",pilaf,General
+Is Pilaf a main dish or a side dish?,Pilaf is usually served as a main dish but can also be a hearty side dish.,pilaf,General
+What is usually served with Pilaf?,"Pilaf is often served with yogurt-based sauces, salads, or grilled meat.",pilaf,General
+Is Pilaf gluten-free?,"Yes, Pilaf is naturally gluten-free as it is made with rice, but cross-contamination can occur if prepared with gluten-containing ingredients.",pilaf,General
+What is a samosa?,"A samosa is a fried or baked pastry with a savory filling, often shaped like a triangle.",samosa,General
+What does it taste like?,"Samosas are crispy on the outside and flavorful inside, with a mix of spices and savory filling.",Pho,General
+What are the common ingredients in a samosa?,"Common ingredients include flour, water, oil, and fillings like spiced potatoes, peas, or minced meat.",samosa,Ingredients
+Is samosa vegetarian?,"Yes, samosas can be vegetarian if the filling is made with potatoes, peas, or lentils instead of meat.",samosa,Dietary Options
+How is samosa cooked?,"Samosas are usually deep-fried, but they can also be baked for a healthier option.",samosa,General
+Can I eat samosa if I have gluten allergies?,"No, traditional samosa dough contains gluten, so it is not suitable for those with gluten allergies.",samosa,General
+Is it spicy?,"Samosas are mildly spiced, but they can be spicy depending on the filling and seasoning.",Pho,Spiciness
+What is the best way to eat a samosa?,"The best way to eat a samosa is hot, paired with chutneys or sauces.",samosa,General
+Are there any dipping sauces for samosa?,"Yes, common dipping sauces include mint chutney, tamarind sauce, and yogurt-based dips.",samosa,General
+How many calories does a typical samosa have?,"A typical samosa has around 200 calories, depending on the size and filling.",samosa,General
+What is Shashlyk?,"Shashlyk is a traditional skewered and grilled meat dish, popular in Central Asia, Eastern Europe, and the Caucasus.",shashlyk,General
+How is Shashlyk prepared?,"Shashlyk is made by marinating meat (like lamb, beef, or chicken) in a mixture of spices, oil, and onions, then grilling it over an open flame.",shashlyk,General
+What does Shashlyk taste like?,"Shashlyk has a smoky, savory flavor with aromatic spices. The taste can vary based on the marinade used.",shashlyk,General
+What are the main ingredients in Shashlyk?,"The main ingredients in Shashlyk are meat (lamb, beef, or chicken), onions, spices, and oil.",shashlyk,Ingredients
+Is Shashlyk spicy?,"Shashlyk is typically not very spicy, but it can have a mild kick depending on the spices used in the marinade.",shashlyk,Spiciness
+What is the best way to eat Shashlyk?,"The best way to eat Shashlyk is to enjoy it hot, straight off the skewer, often with fresh bread and dipping sauces.",shashlyk,General
+Are there any dietary restrictions for Shashlyk?,"Shashlyk contains meat and certain spices. It may not be suitable for vegetarians, vegans, or those avoiding certain meats like pork.",shashlyk,Dietary Options
+What should I pair with Shashlyk?,"Shashlyk pairs well with fresh salads, bread, rice, and yogurt-based sauces.",shashlyk,General
+What is Shawarma?,"Shawarma is a Middle Eastern dish made with marinated and grilled meat, usually served in flatbread with vegetables and sauces.",shawarma,General
+What ingredients are used in Shawarma?,"The main ingredients are marinated meat (chicken, beef, or lamb), flatbread, vegetables, and sauces like tahini or garlic sauce.",shawarma,Ingredients
+How is Shawarma prepared?,"The meat is marinated with spices and yogurt, then grilled or roasted on a vertical spit. It is shaved off and assembled in flatbread with other ingredients.",shawarma,General
+Is Shawarma spicy?,"Shawarma can be mildly spicy, but it depends on the seasoning. You can ask for less spice if preferred.",shawarma,Spiciness
+Can Shawarma be made vegetarian?,"Yes, vegetarian Shawarma can be made using falafel or grilled vegetables instead of meat.",shawarma,Dietary Options
+What is typically served with Shawarma?,"Shawarma is often served with pickles, fries, or salad, and sometimes with a side of hummus or garlic sauce.",shawarma,General
+Does Shawarma contain allergens?,It may contain gluten (in the flatbread) and dairy (in the yogurt marinade or sauces). Always check with the restaurant for specific allergens.,shawarma,Allergens
+What does Shawarma taste like?,"Shawarma has a savory and flavorful taste, with tender meat and a balance of spices, complemented by fresh vegetables and creamy sauces.",shawarma,General
+Is Shawarma healthy?,"It can be healthy depending on the preparation, especially if made with lean meat and lots of vegetables. However, it can also be high in calories if fried or served with rich sauces.",shawarma,General
+Can I customize my Shawarma?,"Yes, most restaurants allow you to customize Shawarma with your choice of meat, sauces, and vegetables.",shawarma,General
