@@ -4,10 +4,17 @@ The weights of trained chat bot models are available in this [link](https://usf.
 The weights of trained knowledge base models are available in this [link](https://usf.box.com/s/5559jnyiq013a0dqfj4255jxcws6zs1a)
 
 Chatbot evaluation:
+
 cd chatbot_evaluation
-python bleurt_eval.py # using bleurt score to compare the generated answer vs true label answer
 
-python blue_eval.py # using blue score to compare the generated answer vs true label answer
+# using bleurt score to compare the generated answer vs true label answer
 
-python rouge_eval.py # using rouge score to compare the generated answer vs true label answer
+python bleurt_eval.py
 
+# using blue score to compare the generated answer vs true label answer
+
+python blue_eval.py 
+
+# using rouge score to compare the generated answer vs true label answer
+
+python rouge_eval.py 
