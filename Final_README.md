@@ -7,6 +7,8 @@ Chatbot evaluation:
 
 cd chatbot_evaluation
 
+generate answer: evaluation_food.ipynb
+
 use bleurt score to compare the generated answer vs true label answer
 
 python bleurt_eval.py
