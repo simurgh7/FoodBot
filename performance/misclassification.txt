@@ -82,3 +82,9 @@ misclassification of pilaf to shashlyk
 misclassification of shawarma to banh-chung
 misclassification of banh-cuon to chao-long
 misclassification of chao-long to pho
+Evasion detector on Swin
+Evasion detector trained and ready. (4/50 misclassification)
+Image '../../Data/evasion-fgsm/banh-chung_53.jpg' is legit.
+Image '../../Data/evasion-fgsm/naan_13329.jpg' is legit.
+Image '../../Data/evasion-fgsm/pho_56.jpg' is legit.
+Image '../../Data/evasion-fgsm/pho_62.jpg' is legit.
